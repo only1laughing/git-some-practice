@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	    <table>
+	        <thead>
+	            <th colspan="3">Exciting Photo Table!</th>
+	        </thead>
+	        <tbody>
+	            <tr>
+	                <td>
+	                    <img src= />
+	                </td>
+	                <td>
+	                    <img src= />
+	                </td>
+	                <td>
+	                    <img src= />
+	                </td>
+	            </tr>
+	            <tr>
+	                <td>
+	                    <img src= />
+	                </td>
+	                <td>
+	                    <img src= />
+	                </td>
+	                <td>
+	                    <img src= />
+	                </td>
+	            </tr>
+	            <tr>
+	                <td>
+	                    <img src= />
+	                </td>
+	                <td>
+	                    <img src= />
+	                </td>
+	                <td>
+	                    <img src= />
+	                </td>
+	            </tr>
+	        </tbody>
+	    </table>
+	</body>
+</html>
